@@ -10,9 +10,9 @@ Here's a example code.
 ```C
 #include<stdio.h>
 int main{
-for(int i=1;i<=5;i++){
-printf("Welcome to Github!!!"\n);
-}
+  for(int i=1;i<=5;i++){
+    printf("Welcome to Github!!!"\n);
+  }
 }
 ```
 ## GREATtest
