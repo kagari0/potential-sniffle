@@ -6,4 +6,5 @@ Here is a [Web image](https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=
 I'll show the official website of [Yu-gi-oh](https://www.yugioh-card.com/).
 ## GREATtest
   Here is the other file [GREATtest](https://github.com/kagari0/potential-sniffle/blob/main/GREATtest.md).
+  You can find more information in this file.
   
