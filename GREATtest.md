@@ -15,9 +15,9 @@ And we can also put a block quote into lists,such as:
     > Actually, I have no idea about other items.
    
 Now it's time for the list.
-|  A   | B  |
-|  :----:  | :----:  |
-| AA  | BB |
-| CC  | DD |
+|  A   | B  | C   | 
+|  :----:  | :----:  | :----:  |
+| AA  | BB | CC |
+| DD  | EE | FF |
 
 Click here and back to [README](https://github.com/kagari0/potential-sniffle/blob/main/README.md).
